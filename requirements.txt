@@ -1,0 +1,14 @@
+# Modern Library Management System Requirements
+# Python 3.7+ required
+
+# GUI Framework (comes with Python)
+# tkinter
+
+# Database (comes with Python)
+# sqlite3
+
+# Image processing for icons
+Pillow>=8.0.0
+
+# Optional: For enhanced development
+# pip>=21.0
