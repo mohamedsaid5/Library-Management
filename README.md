@@ -78,7 +78,7 @@
 
 3. **Run the application**
    ```bash
-   python FullFunctionalModernLibrary.py
+   python LibrarySystem.py
    ```
 
 ### Default Login Credentials
@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Glitch**
-- GitHub: [@yourusername](https://github.com/mohamedsaid5)
+- GitHub: [@mohamedsaid5](https://github.com/mohamedsaid5)
 - Email: mohamedsaidragab5@example.com
 
 ## 🙏 Acknowledgments
@@ -250,5 +250,6 @@ If you have any questions or need help, please:
 ---
 
 **⭐ Star this repository if you find it helpful!**
+
 
 
