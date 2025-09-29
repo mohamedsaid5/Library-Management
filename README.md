@@ -67,7 +67,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/mohamedsaid5/Library-Management.git
-   cd modern-library-system
+   cd Library-Management
    ```
 
 2. **Install dependencies**
@@ -250,4 +250,5 @@ If you have any questions or need help, please:
 ---
 
 **⭐ Star this repository if you find it helpful!**
+
 
