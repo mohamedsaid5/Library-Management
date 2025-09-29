@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Glitch**
 - GitHub: [@mohamedsaid5](https://github.com/mohamedsaid5)
-- Email: mohamedsaidragab5@example.com
+- Email: mohamedsaidragab5@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -250,6 +250,7 @@ If you have any questions or need help, please:
 ---
 
 **⭐ Star this repository if you find it helpful!**
+
 
 
 
