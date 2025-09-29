@@ -66,7 +66,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/modern-library-system.git
+   git clone https://github.com/mohamedsaid5/Library-Management.git
    cd modern-library-system
    ```
 
@@ -197,7 +197,7 @@ Text: #030712 (Almost Black)
 ## 🔧 Customization
 
 ### Changing Colors
-Edit the `self.colors` dictionary in `FullFunctionalModernLibrary.py`:
+Edit the `self.colors` dictionary in `LibrarySystem.py`:
 ```python
 self.colors = {
     'primary': '#your-color',
@@ -213,7 +213,7 @@ The codebase is modular and well-documented. Key areas:
 - Database methods - For data operations
 
 ### Custom Icons
-Replace icons in `modern_icons_api/` folder with your own 40x40px PNG files.
+Replace icons in `modern_icons/` folder with your own 40x40px PNG files.
 
 ## 🤝 Contributing
 
@@ -230,8 +230,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Glitch**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/mohamedsaid5)
+- Email: mohamedsaidragab5@example.com
 
 ## 🙏 Acknowledgments
 
@@ -250,3 +250,4 @@ If you have any questions or need help, please:
 ---
 
 **⭐ Star this repository if you find it helpful!**
+
