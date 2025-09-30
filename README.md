@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Modern UI design inspired by contemporary web applications
 - Icons generated using professional design principles
-- Color palette based on 2024 design trends
+- Color palette based on 2023 design trends
 
 ## 📞 Support
 
@@ -250,6 +250,7 @@ If you have any questions or need help, please:
 ---
 
 **⭐ Star this repository if you find it helpful!**
+
 
 
 
